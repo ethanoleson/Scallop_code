@@ -1,0 +1,20 @@
+# Fdb version 4
+["pdflatex"] 1709079976.00703 "c:/Scallop_code/tex/test.tex" "test.pdf" "test" 1709079976.73437 0
+  "c:/Scallop_code/tex/test.tex" 1708106666 71 2617517f4d70d988a452f168d2dca97e ""
+  "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1708109519 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1708108899 1288 655e228510b4c2a1abe905c368440826 ""
+  "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1708108390 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/base/article.cls" 1708110215 20144 147463a6a579f4597269ef9565205cfe ""
+  "c:/texlive/2023/texmf-dist/tex/latex/base/size12.clo" 1708110215 8449 f07039d8e4e89f21078d9b5137579bfc ""
+  "c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1708110194 30006 57b07afb710ee2f649c65cfbafda39c1 ""
+  "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1708108277 41009 84b61f42d16d06bedb915f57aa2374cf ""
+  "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1708112259 5518052 de2a91c664d75f3971de4662dc6b5a65 ""
+  "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1708112433 8219737 5ac928082bd1ffaeacf76cc66468d2b0 ""
+  "c:/texlive/2023/texmf.cnf" 1708112242 713 e69b156964470283e0530f5060668171 ""
+  "test.aux" 1709079976 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "test.tex" 1708106666 71 2617517f4d70d988a452f168d2dca97e ""
+  (generated)
+  "test.aux"
+  "test.log"
+  "test.pdf"
+  (rewritten before read)

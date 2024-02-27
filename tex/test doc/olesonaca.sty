@@ -1,0 +1,68 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{oleson_aca}[2023/2/09 Oleson Academic Package 1.0]
+
+% Created by E.W. Oleson in 2023 for ease of typesetting my academic documents
+%
+% This package was orginally designed for Geoscience related articles, but may be used for any disicpline. 
+% There are no major differences between this package and a default LaTex doc, but the commands allow for easy and quick use. 
+%
+%
+% Ethan W. Oleson
+% Department of Geoscience
+% University of Arkansas - Fayetteville
+% 340 N. Campus Walk
+% 216 Gearhart Hall
+% Fayetteville, AR 72701 
+% em: eoleson@uark.edu
+% 
+%  For free and open use. 
+
+% Notes: 
+% all Graphics are centered on page, captions are not. 
+% all section headers are unnumbered, for numbers, a command must be used.
+% Maths symbols are easily included conncurrent with the package easymath.sty (EWO). 
+% There is a header and footer using fancyhdr. 
+
+\RequirePackage{amsmath,amsthm,amssymb,graphicx,fancyhdr,multicol,indentfirst,longtable,xcolor,setspace}
+
+%% easymath package below: %%%%%%%%%%%%%%%%%% EASYMATH
+% Created by Ethan Oleson
+% on March 30th 2020
+% to provide a package that is easily accessible to add to the beginning
+% of Mathematics Assignments and Notes for the Montana State University 
+% Department of Mathematics
+\newcommand{\n}{\mathbb{N}}
+\newcommand{\z}{\mathbb{Z}}
+\newcommand{\q}{\mathbb{Q}}
+\newcommand{\cx}{\mathbb{C}}
+\newcommand{\real}{\mathbb{R}}
+\newcommand{\field}{\mathbb{F}}
+\newcommand{\ita}[1]{\textit{#1}}
+\newcommand{\com}[2]{#1\backslash#2}
+\newcommand{\oneton}{\{1,2,3,...,n\}}
+\newcommand\idea[1]{\begin{gather*}#1\end{gather*}}
+\newcommand\ef{\ita{f} }
+\newcommand\m[1]{\begin{bmatrix}#1\end{bmatrix}}
+\newcommand\inv[1]{#1^{-1}}
+\newcommand\setb[1]{\{#1\}}
+\newcommand\en{\ita{n }}
+\newcommand{\vbrack}[1]{\langle #1\rangle}
+\newcommand{\evl}[1]{\lambda_{#1}}
+\newcommand{\nn}{n \times n}
+\newcommand{\la}{\lambda}
+\newcommand{\bb}[1]{\mathbb{#1}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Academic Typesetting below %%%%%%%%%%%%%%%%%
+\newcommand{\paperfigure}[2]{\begin{center}\includegraphics[scale=#1]{#2}\singlespacing \end{center}}
+\newcommand{\figurecap}[2]{\caption{\singlespacing \textbf{Figure #1: }#2}}
+\newcommand{\tablecap}[2]{\caption{\singlespacing \textbf{Table #1: }#2}}
+\newcommand{\header}[1]{\section*{#1}}
+\newcommand{\be}[1]{\begin{equation}#1\end{equation}}
+\newcommand{\note}[1]{{\color{red} #1}}
+\newcommand{\hypth}[1]{\textbf{#1}}
+\newcommand{\obj}[1]{\textbf{Objection{#1}}}
+\newcommand{\robj}[1]{\textbf{\textbf{Reply to Objection {#1}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Paper formatting below
+
+\newcommand{\bsection}[1]{ {\large{\noindent \textbf{#1}}\\}
+\newcommand{\bsubsection}[1]{\noindent \textbf{#1}\\}
+\endinput 
