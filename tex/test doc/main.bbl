@@ -1,0 +1,112 @@
+\begin{thebibliography}{21}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[\protect\citename{Braun et~al., }2006]{braunetal2006}
+Braun, J., Beek, P.V.D., and Batt, G., 2006. Quantitative Thermochronology:
+  Numerical methods for the interpretation of thermochronological data,
+  Cambridge University Press, 258 pp.
+
+\bibitem[\protect\citename{Cooperdock et~al., }2019]{cooperdocketal}
+Cooperdock, E., Ketcham, R., and Stockli, D., 2019. Resolving the effects of
+  2-d versus 3-d grain measurements on apatite (u-th)/he age data and
+  reproducibility, Geochronology, vol.~1, pp. 17--41.
+
+\bibitem[\protect\citename{Farley et~al., }1996]{farleyetal1996}
+Farley, K., Wolf, R., and Silver, L., 1996. The effects of long alpha-stopping
+  distances on (u-th)/he ages, Geochimica et Cosmochimica Acta, vol.~60, pp.
+  4223--4229.
+
+\bibitem[\protect\citename{Flowers et~al.,
+  }2022{\natexlab{\emph{a}}}]{flowersetal2022b}
+Flowers, R., Ketcham, R., Enkelmann, E., Gautheron, C., Reiners, P., Metcalf,
+  J., Danisik, M., Stockli, D., and Brown, R., 2022{\natexlab{\emph{a}}}.
+  (u-th)/he chronology: Part 2. considerations for evaluating, integrating, and
+  interpreting conventional individual aliqut data, GSA Bulletin.
+
+\bibitem[\protect\citename{Flowers et~al.,
+  }2022{\natexlab{\emph{b}}}]{flowersetal2022a}
+Flowers, R., Zeitler, P., Danisik, M., Reiners, P., Gautheron, C., Ketcham, R.,
+  Metcalf, J., Stockli, D., Enkelmann, E., and Brown, R.,
+  2022{\natexlab{\emph{b}}}. (u-th)/he chronology: Part 1. data, uncertainty,
+  and reporting, GSA Bulletin, vol. 135, pp. 104--136.
+
+\bibitem[\protect\citename{Gallagher, }2012]{gallagher2012}
+Gallagher, K., 2012. Transdimensional inverse thermal history modeling for
+  quantitative thermochronology, Journal of Geophysical Research, vol. 117,
+  p.~16.
+
+\bibitem[\protect\citename{Guenthner et~al., }2013]{guenthneretal2013}
+Guenthner, W., Reiners, P., Ketcham, R., Nasdala, L., and Giester, G., 2013.
+  Helium diffusion in natural zircon: radiation damage, anisotropy, and the
+  interpretation of zircon (u-th)/he thermochronology, American Journal of
+  Science, vol. 313, pp. 145--198.
+
+\bibitem[\protect\citename{Ketcham, }2005]{ketcham2005}
+Ketcham, R., 2005. Forward and inverse modeling of low-temperature
+  thermochronology, Reviews in Mineralogy and Geochemistry.
+
+\bibitem[\protect\citename{Ketcham et~al., }2011]{ketchametal2011}
+Ketcham, R., Gautheron, C., and Tassan-Got, L., 2011. Accounting for long
+  alpha-particle stopping distances in (u-th-sm)/he geochronology: Refinement
+  of the baseline case, Geochimica et Cosmochimica Acta, vol.~75, pp.
+  7779--7791.
+
+\bibitem[\protect\citename{Martin et~al., }2023]{martinetal2023}
+Martin, P., Metcalf, J., and Flowers, R., 2023. Calculation of uncertainty in
+  the (u-th)/he system, Geochronology.
+
+\bibitem[\protect\citename{Meesters and Dunai, }2002]{meestersanddunai2002a}
+Meesters, A. and Dunai, T., 2002. Solving the production-diffusion equation for
+  finite diffusion domains of various shapes part i. implication for
+  low-temperature (u-th)/he thermochronology, Chemical Geology, pp. 333--344.
+
+\bibitem[\protect\citename{Oleson, }2022]{oleson2022}
+Oleson, E., 2022. Thermal history of the basal great valley forearc near wilbur
+  hot springs, northern, california.
+
+\bibitem[\protect\citename{Orme et~al., }in prep]{Ormeetal2024}
+Orme, D., Manta, R., Oleson, E., and Wakabayashi, J., in prep. Extensional
+  origins of the great valley forearc basin.
+
+\bibitem[\protect\citename{Reiners et~al., }2018]{reinersetal2018}
+Reiners, P., Carlson, R., Renne, P., Cooper, K., Granger, D., Mclean, N., and
+  Schoene, B., 2018. Geochronology and Thermochronology, Wiley.
+
+\bibitem[\protect\citename{Sharman et~al., }2018]{sharmanetal2018}
+Sharman, G., Sharman, J., and Sylvester, Z., 2018. detritalpy: A python-based
+  toolset for visualizng and analysing detrital geo-thermochronologic data, The
+  Depositional Record.
+
+\bibitem[\protect\citename{Shuster et~al., }2006]{shusteretal2006}
+Shuster, D., Flowers, R., and Farley, K., 2006. The influence of natural
+  radiation damage on helium diffusion kinetics in apatite, Earth and Planetary
+  Science Letters, pp. 148--161.
+
+\bibitem[\protect\citename{Vermeesch, }2008]{vermeesch2008}
+Vermeesch, P., 2008. Three new ways to calculate average (u-th)/he ages,
+  Chemical Geology, vol. 249, pp. 339--347.
+
+\bibitem[\protect\citename{Vermeesch, }2018]{vermeesch2018}
+Vermeesch, P., 2018. \texttt{IsoplotR:} a free and open toolbox for
+  geochronology, Geoscience Frontiers, vol.~9, pp. 1479--1493.
+
+\bibitem[\protect\citename{Vermeesch et~al., }2006]{vermeeschetal2006}
+Vermeesch, P., Miller, D., Graham, S., Grave, J.D., and McWilliams, M., 2006.
+  Multimethod detrital thermochronology of the great valley group near new
+  idria, california, GSA Bulletin, pp. 210--218.
+
+\bibitem[\protect\citename{Zeitler et~al., }1987]{zeitleretal1987}
+Zeitler, P., Herczeg, A., McDougall, I., and Honda, M., 1987. U-th-he dating of
+  apatite: A potential thermochronometer, Geochimica et Cosmochimica Acta,
+  vol.~51, pp. 2865--2868.
+
+\bibitem[\protect\citename{Ziegler et~al., }2010]{ziegleretal2010}
+Ziegler, J., Ziegler, M., and Biersack, J., 2010. Srim - the stopping and range
+  of ions in matter (2010), Nuclear Instruments and Method in Physics Research
+  B, vol. 268, pp. 1818--1823.
+
+\end{thebibliography}
