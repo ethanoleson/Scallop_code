@@ -1,0 +1,18 @@
+﻿Image Name,Live Image,,,,,,
+Specimen,,,,,,,
+Description,,,,,,,
+Observations,,,,,,,
+Calibration,1 pixel = 1.92E-003 mm,,,,,,
+,,,,,,,
+,,,,,,,
+Measurement #,Group,Tool,Width (mm),Height (mm),Major Axis (mm),Minor Axis (mm),Angle (°)
+2,,CrossBar,5.12,2.90,5.12,2.90,0.47
+3,,CrossBar,3.00,2.20,3.00,2.20,11.72
+4,,CrossBar,3.50,1.48,3.50,1.48,23.18
+5,,CrossBar,3.06,1.41,3.06,1.41,3.21
+,,,,,,,
+,,,,,,,
+,,,5116.082345,2897.658402,,,
+,,,3001.409664,2195.209529,,,
+,,,3500.403222,1483.577743,,,
+,,,3063.280562,1406.327972,,,
